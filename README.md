@@ -47,3 +47,6 @@ Kimia Farma perlu mengoptimalkan strategi di provinsi dengan profit rendah, meni
 
 ## Link Dashboard
 [Kimia Farma Performance Dashboard (2020-2023)](https://lookerstudio.google.com/reporting/28fe2798-9e36-4953-bb6f-31ab254d0dc0)
+
+## Hasil Dashboard
+![alt text](https://github.com/rmdlaska11/PBI_Kimia_Farma/blob/4c00dd366248b479716b199b1dc6ec3f22d28594/Performance%20Analysis%20Dashboard.png)
